@@ -1,4 +1,5 @@
-# Sistema de recomendação de investimento
+# Sistema de Recomendação de Investimentos com IA
+Este projeto utiliza técnicas de Machine Learning para recomendar o melhor tipo de investimento (ações, títulos, fundos, etc.) com base no perfil do investidor, tolerância ao risco e previsão de retorno. O sistema é interativo e permite ajustes no nível de risco desejado.
 
 ## Informações principais
 
@@ -36,6 +37,19 @@ recomendador_investimento-IA/
 ├── .gitignore             # Ignorar arquivos 
 └── README.md              # Documentação do projeto
 ```
+
+## Funconalidades
+- Classificação do tipo ideal de investimento: conservador, moderado ou arrojado.
+- Previsão de retorno estimado com base em dados históricos.
+- Interface interativa com Streamlit para simulação personalizada.
+
+
+## Tecnologias Utilizadas
+- Python
+- scikit-learn
+- Pandas & NumPy
+
+
 
 ## Como executar:
 
