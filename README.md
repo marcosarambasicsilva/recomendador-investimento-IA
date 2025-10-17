@@ -6,22 +6,11 @@ Relatório do Projeto: [Relatório - Sistema de recomendação de investimento](
 Github:
 Base de Dados:
 
-## Modelo cabecalho dos códigos:
-/***************************************************************************************      
-SCRIPT    : SPD_CALCULO_COTA_DELETE_DADOS_BEIGENE                                             
-OBJETIVO  : Apaga dados relacionados a empresa Beigene                                              
-AUTOR     : MARCOS ARAMBASIC															
-DATA      : OUT/2025                                                            
---------------------------------ALTERACOES----------------------------------------------      
-DATA       AUTOR       OBJETIVO                                                   
-
-****************************************************************************************/ 
-
 
 ## Estrutura organizacional do projeto:
 
 ```
-recomendador_investimento/
+recomendador_investimento-IA/
 ├── data/                  # Bases de dados (originais e tratadas)
 │   ├── lake/              # Dados brutos
 │   └── warehouse/         # Dados limpos e prontos para modelagem
