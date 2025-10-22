@@ -3,5 +3,12 @@ Auxiliador.md
 Fonte_de_dados.md
 
 # Arquivos para relatório do projeto
-relatorio/Estudo - Perfil Comportamental do Investidor-2022.pdf
-relatorio/Estudo - Analise do desempenho de modelos de redes neurais para fundos imobiliarios.pdf
+# relatorio* -> ignora todas as pastas ou arquivos que comecem com "relatorio"
+relatorio*/
+
+# .venv - Ambiente virtual do Python
+.venv*/
+
+# .env - Variáveis de ambiente 
+.env 
+
